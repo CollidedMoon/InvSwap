@@ -1,0 +1,9 @@
+name: InvSwap
+main: me.collidedmoon.InvSwap.InvSwapMain
+author: CollidedMoon
+version: 1.0
+commands:
+   invswap:
+      description: InvSwap commands!
+      usage: /<command>
+
